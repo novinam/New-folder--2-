@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime
 
-st.set_page_config(page_title="Restaurant Ops Dashboard", layout="wide")
+st.set_page_config(page_title="RABT IWAN Ops Dashboard", layout="wide")
 
 st.title("🍕 Restaurant Operations Dashboard")
 

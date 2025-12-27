@@ -4,7 +4,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="RABT IWAN Ops Dashboard", layout="wide")
 
-st.title("🍕 Restaurant Operations Dashboard")
+st.title("🍕 RABT IWAN Operations Dashboard")
 
 # ---------------- SETTINGS ----------------
 st.sidebar.header("⚙️ Settings")
